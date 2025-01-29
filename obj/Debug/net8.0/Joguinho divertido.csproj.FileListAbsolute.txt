@@ -1,0 +1,14 @@
+C:\Users\Swat\source\repos\Joguinho divertido\bin\Debug\net8.0\Joguinho divertido.exe
+C:\Users\Swat\source\repos\Joguinho divertido\bin\Debug\net8.0\Joguinho divertido.deps.json
+C:\Users\Swat\source\repos\Joguinho divertido\bin\Debug\net8.0\Joguinho divertido.runtimeconfig.json
+C:\Users\Swat\source\repos\Joguinho divertido\bin\Debug\net8.0\Joguinho divertido.dll
+C:\Users\Swat\source\repos\Joguinho divertido\bin\Debug\net8.0\Joguinho divertido.pdb
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\Joguinho divertido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\Joguinho divertido.AssemblyInfoInputs.cache
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\Joguinho divertido.AssemblyInfo.cs
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\Joguinho divertido.csproj.CoreCompileInputs.cache
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\Joguinho divertido.dll
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\refint\Joguinho divertido.dll
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\Joguinho divertido.pdb
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\Joguinho divertido.genruntimeconfig.cache
+C:\Users\Swat\source\repos\Joguinho divertido\obj\Debug\net8.0\ref\Joguinho divertido.dll
